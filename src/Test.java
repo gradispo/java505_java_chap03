@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Question {
+public class Test {
     public static void main(String[] args) {
 //        문제1) 점수를 입력받아 점수 및 등급을 출력하는 프로그램을 작성하세요
 //        else if 문을 사용하여 작성
