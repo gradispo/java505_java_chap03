@@ -60,7 +60,7 @@ public class Array2 {
 
         System.out.println();
         for (int item[] : numArr) {
-            for (int[] i : numArr) {
+            for (int i : item) {
                 System.out.print(i + " ");
             }
         }
