@@ -40,10 +40,12 @@ public class While {
         System.out.println("\n----- 문제2 -----\n");
 
         int count = 1;
-        while (count < 11) {
+
+        while (count<11) {
             System.out.println(count);
             count++;
         }
+
 //        문제 3) while 문을 사용하여 1 ~ 10까지의 총합을 구하는 프로그램을 작성하세요
         System.out.println("\n----- 문제3 -----\n");
 
@@ -56,7 +58,7 @@ public class While {
 
             count++;
         }
-        System.out.println("\ttotal : " + total);
+        System.out.println("\ntotal : " + total);
 
 
 
